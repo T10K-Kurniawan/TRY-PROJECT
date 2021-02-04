@@ -25,3 +25,5 @@ for a in anak:
 print('\nsapa semua anak ribet')
 for a in range(0, len(anak)):
     print(f'{a+1}. hai {anak[a]}')
+
+#Tipe Data Dictionary
