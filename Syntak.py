@@ -2,7 +2,7 @@
 # SEQUENTIAL : Esekusi Berurutan
 print('hello world!')
 print('by ME')
-print("2020-02-03")
+print('2020-02-03')
 print('-' * 12)
 
 #PERCABANGAN : Eksekusi terpilih
